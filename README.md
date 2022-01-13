@@ -4,4 +4,4 @@ Sebuah Aplikasi dengan Fitur Login
 Alur Fitur Login 
 1. Memasukkan email dan password 
 2. Memvalidasi Masukkan 
-3. Menampilakan Halaman Beranda 
+3. Menampilakan Halaman Home 
